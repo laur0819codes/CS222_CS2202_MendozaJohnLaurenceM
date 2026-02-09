@@ -1,0 +1,14 @@
+D:\Microsoft VS Code\repos\InterestCalculator\bin\Debug\net10.0\InterestCalculator.exe
+D:\Microsoft VS Code\repos\InterestCalculator\bin\Debug\net10.0\InterestCalculator.deps.json
+D:\Microsoft VS Code\repos\InterestCalculator\bin\Debug\net10.0\InterestCalculator.runtimeconfig.json
+D:\Microsoft VS Code\repos\InterestCalculator\bin\Debug\net10.0\InterestCalculator.dll
+D:\Microsoft VS Code\repos\InterestCalculator\bin\Debug\net10.0\InterestCalculator.pdb
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.AssemblyInfo.cs
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.dll
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\refint\InterestCalculator.dll
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.pdb
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\InterestCalculator.genruntimeconfig.cache
+D:\Microsoft VS Code\repos\InterestCalculator\obj\Debug\net10.0\ref\InterestCalculator.dll

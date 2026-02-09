@@ -1,0 +1,14 @@
+D:\Microsoft VS Code\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.exe
+D:\Microsoft VS Code\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.deps.json
+D:\Microsoft VS Code\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.runtimeconfig.json
+D:\Microsoft VS Code\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.dll
+D:\Microsoft VS Code\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.pdb
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.AssemblyInfo.cs
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.dll
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\refint\CurrencyConverter.dll
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.pdb
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.genruntimeconfig.cache
+D:\Microsoft VS Code\repos\CurrencyConverter\obj\Debug\net10.0\ref\CurrencyConverter.dll
