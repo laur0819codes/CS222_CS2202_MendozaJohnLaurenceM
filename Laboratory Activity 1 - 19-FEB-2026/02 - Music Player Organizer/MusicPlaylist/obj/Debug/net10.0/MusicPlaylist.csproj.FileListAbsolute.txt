@@ -1,0 +1,14 @@
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.AssemblyInfo.cs
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\repos\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.exe
+D:\Microsoft VS Code\repos\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.deps.json
+D:\Microsoft VS Code\repos\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.runtimeconfig.json
+D:\Microsoft VS Code\repos\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.dll
+D:\Microsoft VS Code\repos\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.pdb
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.dll
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\refint\MusicPlaylist.dll
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.pdb
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.genruntimeconfig.cache
+D:\Microsoft VS Code\repos\MusicPlaylist\obj\Debug\net10.0\ref\MusicPlaylist.dll
